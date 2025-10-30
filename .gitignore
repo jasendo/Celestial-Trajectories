@@ -1,1 +1,8 @@
+# Dependencies
 node_modules
+
+# Production build
+build
+
+# Environment variables
+.env
